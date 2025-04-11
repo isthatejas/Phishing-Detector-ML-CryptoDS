@@ -10,7 +10,7 @@ To install the required packages and libraries, run this command in the project 
 pip install -r requirements.txt
 ```
 ## YouTube Link
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/8JwSW-PnnYs/maxresdefault.jpg)](https://youtu.be/8JwSW-PnnYs)
 
 ## Technologies Used
 
